@@ -1,0 +1,47 @@
+/* * {
+    border: solid black 1px;
+} */
+
+section {
+    font-family: Arial;
+    color: white;
+    background-color: black;
+    border: solid black 2px;
+}
+
+h1 {
+    font-family: Arial;
+    text-align: center;
+}
+
+#pic1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 50%; */
+}
+
+img {
+    margin-left: auto;
+    margin-right: 0;
+    display: inline;
+}
+
+.nav {
+    font-family: Arial;
+    display: inline;
+    border: solid black 1px;
+}
+
+nav > ul > li {
+    margin: 70px;
+    padding: 10px;
+    color: blue;
+    background-color: teal;
+}
+
+img {
+    width: 25%;
+    height: auto;
+    vertical-align: middle;
+}
